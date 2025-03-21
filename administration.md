@@ -12,4 +12,21 @@
     - save
     - refresh
 
-# 
+# How to activate GA through PIM process
+  - As user
+  - Go to entra ID
+  - Roles and Administrators (Your role)
+  - Choose Global Admin
+  - Eligible assignmnets
+  - activate (choose time)
+  - wait
+
+# Add external user to your Azure env
+  - Users
+  - new users
+  - invite external user
+  - check and see if user is in list
+  - add email account
+  - send link to user with tenant ID to portal url (ie: portal.azure.microsoft.cloud)
+  - They must accept the license agreement
+  - add use to appropiate groups
